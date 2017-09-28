@@ -10,3 +10,10 @@ patch:
         patched: '2017-05-25T03:20:04.474Z'
     - vorlon-node-wrapper > socket.io-client > socket.io-parser > debug > ms:
         patched: '2017-05-25T03:20:04.474Z'
+  'npm:debug:20170905':
+    - vorlon-node-wrapper > socket.io-client > debug:
+        patched: '2017-09-28T03:20:07.807Z'
+    - vorlon-node-wrapper > socket.io-client > engine.io-client > debug:
+        patched: '2017-09-28T03:20:07.807Z'
+    - vorlon-node-wrapper > socket.io-client > socket.io-parser > debug:
+        patched: '2017-09-28T03:20:07.807Z'
